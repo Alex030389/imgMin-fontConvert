@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "utilities",
+  "scripts": {
+    "imgMin": "gulp imgMin",
+    "fontConvert": "gulp fontConvert"
+  },
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^4.0.1",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
